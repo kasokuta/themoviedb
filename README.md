@@ -1,13 +1,17 @@
 # Security
 
 For security reasons I left the api key blank in the env file
+
 Please fill it with your own
 
 # Things that I left
 
 Implementation of a good loading UI like using Skeleton
+
 Implementation of a good Error UI
+
 Implementation of an 404 Page not found
+
 Add some more tests
 
 # Getting Started with Create React App
